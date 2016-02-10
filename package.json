@@ -4,7 +4,7 @@
   "description": "This is my first project @hatchitup",
   "main": "index.js",
   "scripts": {
-    "start":"node server.js",
+    "start": "node server.js",
     "test": "npm test"
   },
   "repository": {
@@ -15,5 +15,8 @@
   "license": "BSD-2-Clause",
   "bugs": {
     "url": "https://github.com/bhawnagaur/first_nodejs_project/issues"
+  },
+  "dependencies": {
+    "express": "~4.13.4"
   }
 }
