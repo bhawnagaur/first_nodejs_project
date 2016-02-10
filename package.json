@@ -1,0 +1,19 @@
+{
+  "name": "first_project",
+  "version": "0.0.1",
+  "description": "This is my first project @hatchitup",
+  "main": "index.js",
+  "scripts": {
+    "start":"node server.js",
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:bhawnagaur/first_nodejs_project.git"
+  },
+  "author": "Bhawna Gaur",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/bhawnagaur/first_nodejs_project/issues"
+  }
+}
